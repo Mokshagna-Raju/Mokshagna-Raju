@@ -1,6 +1,6 @@
 # Mokshagna-Raju
 # 💫 About Me:
-Highly motivated Computer Science student with programming skills, eager to contribute to innovative<br>projects and learn from industry leaders through an internship opportunity.<br><br>Passionate about AI & impactful innovations<br><br>Built projects like ocean pollution detection using yolo and computer vision<br><br>Self initiative and passion for learning
+Highly motivated Computer Science student with programming skills, eager to contribute to innovative<br>projects and learn from industry leaders through an opportunity.<br><br>Passionate about AI & impactful innovations<br><br>Built projects like ocean pollution detection using yolo and computer vision<br><br>Self initiative and passion for learning
 
 
 ## 🌐 Socials:
